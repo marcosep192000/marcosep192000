@@ -1,8 +1,12 @@
 ### Hi there 👋
-My name is M@rcos I'm from Argentina 
+
+ My name is Marcos, I am a programmer analyst, I currently have more than a year and a half of experience in backend development with Java Spring boot, git, MySql, JPA and Hibernate, as for the frontend, I am in constant training in CSS, JS and HTML and I also have knowledge in the
+ Angular Framework ; I am a proactive person with a great passion for technology and a great desire to learn.
+
+-For more than 5 years I developed activities in the area of ​​administration in commercial and rural companies.
+
 I'm  Full Stack Jr.
 I'm serching my first job. 
-- 🌱 I’m currently learning css,html and js 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
